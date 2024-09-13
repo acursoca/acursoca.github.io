@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://acursoca.github.io/sitemap.html.gz
+Sitemap: https://acursoca.github.io/app/sitemap.html.gz
+Sitemap: https://acursoca.github.io/assets/sitemap.html.gz
+Sitemap: https://acursoca.github.io/css/sitemap.html.gz
+Sitemap: https://acursoca.github.io/includes/sitemap.html.gz
+Sitemap: https://acursoca.github.io/item/sitemap.html.gz
+Sitemap: https://acursoca.github.io/src/sitemap.html.gz
